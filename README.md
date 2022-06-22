@@ -1,2 +1,2 @@
 # wildlife
-this id my frt project
+this is my frt project
