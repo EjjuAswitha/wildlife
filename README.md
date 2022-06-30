@@ -13,3 +13,8 @@ screenshots of project
 ![image](https://user-images.githubusercontent.com/95036386/176671315-751b4848-7e63-4c5c-8074-444f663aec65.png)
 VIDEO OF PROJECT
 
+
+
+Uploading Wildlive_Animals_Category_Bootstrap_Responsive_Web_Template_Home.mp4…
+
+ 
