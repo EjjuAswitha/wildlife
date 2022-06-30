@@ -11,4 +11,5 @@ screenshots of project
 ![image](https://user-images.githubusercontent.com/95036386/176671255-4b2c1279-b7dd-4369-b315-4ba85a64c0f4.png)
 ![image](https://user-images.githubusercontent.com/95036386/176671291-a6fe2cba-5529-4d68-85b0-ab41d1fe081f.png)
 ![image](https://user-images.githubusercontent.com/95036386/176671315-751b4848-7e63-4c5c-8074-444f663aec65.png)
-video of project
+VIDEO OF PROJECT
+
