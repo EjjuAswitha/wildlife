@@ -25,8 +25,7 @@ azure static web app azure static web apps allows you to bulid modern web applic
 
 # VIDEO OF PROJECT
 
-
-
-Uploading Wildlive_Animals_Category_Bootstrap_Responsive_Web_Template_Home.mp4…
-
  
+https://user-images.githubusercontent.com/95036386/176885068-90381799-5acd-4d91-b451-fa6fdf57929d.mp4
+
+
